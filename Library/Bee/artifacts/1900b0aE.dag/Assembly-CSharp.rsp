@@ -349,6 +349,9 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Pathfinding/GridManager.cs"
+"Assets/Pathfinding/Node.cs"
+"Assets/Pathfinding/Pathfinder.cs"
 "Assets/Scipts/Bank.cs"
 "Assets/Scipts/CoordiarteLabeller.cs"
 "Assets/Scipts/Enemy.cs"
@@ -356,8 +359,8 @@
 "Assets/Scipts/EnnemyMover.cs"
 "Assets/Scipts/ObjectPool.cs"
 "Assets/Scipts/TargetLocator.cs"
+"Assets/Scipts/Tile.cs"
 "Assets/Scipts/Tower.cs"
-"Assets/Scipts/Waypoint.cs"
 -langversion:9.0
 
 /deterministic

@@ -36,13 +36,16 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Pathfinding\Node.cs" />
      <Compile Include="Assets\Scipts\EnnemyHealth.cs" />
      <Compile Include="Assets\Scipts\Enemy.cs" />
      <Compile Include="Assets\Scipts\EnnemyMover.cs" />
+     <Compile Include="Assets\Pathfinding\GridManager.cs" />
      <Compile Include="Assets\Scipts\Bank.cs" />
+     <Compile Include="Assets\Pathfinding\Pathfinder.cs" />
      <Compile Include="Assets\Scipts\ObjectPool.cs" />
      <Compile Include="Assets\Scipts\Tower.cs" />
-     <Compile Include="Assets\Scipts\Waypoint.cs" />
+     <Compile Include="Assets\Scipts\Tile.cs" />
      <Compile Include="Assets\Scipts\TargetLocator.cs" />
      <Compile Include="Assets\Scipts\CoordiarteLabeller.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
